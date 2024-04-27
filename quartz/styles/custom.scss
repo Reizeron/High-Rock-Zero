@@ -1,5 +1,9 @@
 @use "./base.scss";
 @use "./callouts.scss";
+@font-face {
+    font-family: "Pelagiad";
+    src: url("./static/fonts/Pelagiad.ttf");
+}
 
 // put your custom CSS here!
 $color_normal: rgb(202 165 96);
