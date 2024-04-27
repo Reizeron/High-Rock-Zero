@@ -34,6 +34,8 @@ $color_bg: rgba(0, 0, 0, 0.2);
 	& > p {
 		color: $color_normal;
 		line-height: normal;
+		overflow-wrap: normal;
+		word-wrap: normal;
 		};
     i, em {
         color: #3f4f6f;
