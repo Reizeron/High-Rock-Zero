@@ -1,3 +1,81 @@
 @use "./base.scss";
+@use "./callouts.scss";
 
 // put your custom CSS here!
+$color_normal: rgb(202 165 96);
+$color_link: rgb(112 126 207);
+$color_link_over: rgb(143 155 218);
+$color_link_pressed: rgb(175 184 228);
+$color_answer: rgb(150 50 30);
+$color_grey: rgb(100 100 100);
+$color_bg: rgba(0, 0, 0, 0.2);
+
+
+
+.page-title {
+	a {
+		font-family: Pelagiad;
+	}
+}
+
+
+.callout[data-callout="dialogue"] {
+    .callout-title-inner {
+        font-weight: normal;
+    }
+    --color: #{$color_grey};
+	--bg: #{$color_bg};
+	--callout-color: #{$color_grey};
+	--callout-icon: var(--callout-icon-quote);
+	border: 2px solid $color_grey;
+	border-radius: 0px;
+ //   font: 1.0em Pelagiad;
+ 	font-family: Pelagiad;
+	& > p {
+		color: $color_normal;
+		line-height: normal;
+		};
+    i, em {
+        color: #3f4f6f;
+    }
+	a {
+	  font-weight: normal;
+	  text-decoration: none;
+	  transition: none;
+	  color: $color_link;
+	  &:hover {
+		color: $color_link_over !important;
+	  }
+	  &.internal {
+		text-decoration: none;
+		background-color: transparent;
+		padding: 0;
+		border-radius: 0;
+		line-height: normal;
+		&:has(> img) {
+		  background-color: transparent;
+		  border-radius: 0;
+		  padding: 0;
+		}
+	  }
+	}
+
+    strong {
+        color: $color_answer;
+        font-weight: normal;
+    }    
+}
+
+
+
+//    --callout-border-width: 2px;
+//    --callout-radius: 0px;
+//    --callout-title-size: 1.0em;
+//    --link-color: $color_link;
+//    --link-decoration: none;
+//    --link-decoration-hover: none;
+//    --link-unresolved-color: $color_link;
+//    --link-unresolved-decoration-style: none;
+//    --link-unresolved-decoration-hover: none;
+//    --link-unresolved-opacity: 1;
+//    --link-color-hover: $color_link_over;

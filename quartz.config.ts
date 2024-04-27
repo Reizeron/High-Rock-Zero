@@ -6,9 +6,10 @@ import * as Plugin from "./quartz/plugins"
  *
  * See https://quartz.jzhao.xyz/configuration for more information.
  */
+ 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "⛰️ High Rock Zero",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -20,7 +21,7 @@ const config: QuartzConfig = {
     defaultDateType: "created",
     theme: {
       fontOrigin: "googleFonts",
-      cdnCaching: true,
+      cdnCaching: false,
       typography: {
         header: "Schibsted Grotesk",
         body: "Source Sans Pro",
@@ -28,6 +29,16 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
+          light: "#1e1e1e", //page background
+          lightgray: "#393639", //borders
+          gray: "#646464", //graph links, heavier borders
+          darkgray: "#dadada", //body text
+          dark: "#ebebec", //header text and icons
+          secondary: "#7b97aa", //link colour, current graph node
+          tertiary: "#84a59d", //hover states and visited graph nodes
+          highlight: "rgba(143, 159, 169, 0)", //internal link background, highlighted text, highlighted lines of code
+        },
+/* 		lightMode: {
           light: "#faf8f8",
           lightgray: "#e5e5e5",
           gray: "#b8b8b8",
@@ -36,7 +47,7 @@ const config: QuartzConfig = {
           secondary: "#284b63",
           tertiary: "#84a59d",
           highlight: "rgba(143, 159, 169, 0.15)",
-        },
+        }, */
         darkMode: {
           light: "#161618",
           lightgray: "#393639",
@@ -65,6 +76,7 @@ const config: QuartzConfig = {
         keepBackground: false,
       }),
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
+	  Plugin.HardLineBreaks(),
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
