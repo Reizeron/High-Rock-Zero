@@ -28,7 +28,7 @@
 > *;Commoner; Morrowind lore, local lore*
 
 >[!dialogue] Class;Crusader
-> I'm what they call a crusader. Crusaders used to be warriors in service to a cult, but now any heavily armored warrior with a good cause calls himself a crusader. My good cause is hunting down necromancers and witches and bandits and other malefactors. And I do well by doing good -- salvage on arms, armor, and goods taken from malefactors earns me a good living. I'm tough and strong, so I wear heavy armor and use blunt weapons. And I won't fight with worn weapons or worn armor, so I'm my own armorer.
+> I'm what they call a crusader. Crusaders used to be warriors in service to a cult, but now any heavily armored warrior with a good cause calls himself a crusader. My good cause is hunting down [[necromancers]] and witches and bandits and other malefactors. And I do well by doing good -- salvage on arms, armor, and goods taken from malefactors earns me a good living. I'm tough and strong, so I wear heavy armor and use blunt weapons. And I won't fight with worn weapons or worn armor, so I'm my own armorer.
 > *;Crusader; Blunt, Heavy Armor, Armorer*
 
 >[!dialogue] Class;Drillmaster
@@ -74,14 +74,14 @@
 > *;necromancer, NOT worm cultist*
 
 >[!dialogue] Class;Noble
-> I am a noble, elevated by birth and distinction to the highest ranks of Imperial society. I do not have a trade, as such, though I may dabble in various affairs, collecting rare treasures of beauty and refinement. And if such things are valuable, there's no harm in it. My lofty station is not without responsibilities, of course. I must serve at the command of the Emperor and the Councils, giving counsel and support, and, when duty calls, taking spell and sword to protect the smallfolk of the Empire.
+> I am a noble, elevated by birth and distinction to the highest ranks of Imperial society. I do not have a trade, as such, though I may dabble in various affairs, collecting rare treasures of beauty and refinement. And if such things are valuable, there's no harm in it. My lofty station is not without responsibilities, of course. I must serve at the command of the Emperor and the Councils, giving counsel and support, and, when duty calls, taking spell and sword to protect the smallfolk of [[the Empire]].
 > *;Noble; generic [Imperial]; make sure more specific Great House noble topics are above this one*
 
 >[!dialogue] Class;Pilgrim Author;R-Zero
 > I am a pilgrim. I search for enlightenment, and hope to purify my soul through facing and overcoming the challenges of [[pilgrimages]] that reenact the tests and trials of gods, saints, and heroes. I visit the [[shrines]] and make devotions everywhere I travel...
 
 >[!dialogue] Class;Pilgrim Province;Morrowind
-> I am a pilgrim. I search for enlightenment, and hope to purify my soul through facing and overcoming the challenges of pilgrimages that reenact the tests and trials of gods, saints, and heroes. I visit the shrines and make devotions everywhere I travel -- ==in village Temple shrines, and the High Fane of Vivec, or at the remote shrines scattered all over Vvardenfell.==
+> I am a pilgrim. I search for enlightenment, and hope to purify my soul through facing and overcoming the challenges of pilgrimages that reenact the tests and trials of gods, saints, and heroes. I visit the [[shrines]] and make devotions everywhere I travel -- ==in village Temple [[shrines]], and the High Fane of Vivec, or at the remote [[shrines]] scattered all over Vvardenfell.==
 > *;Pilgrim; Shrines, Pilgrimages*
 
 >[!dialogue] Class;Priest Faction;AedricChurch Author;R-Zero
@@ -91,7 +91,7 @@
 > I am a priest of the [[Nine Divines]]. My role is advocate to the gods on behalf of our cult members. The [[Nine Divines]] cult provides certain benefits for its members at our [[shrines]].
 
 >[!dialogue] Class;Priest Province;Morrowind
-> I am a priest of the Imperial cult. My role is advocate to the gods on behalf of our cult members. The Imperial cult provides certain benefits for its members at our shrines.
+> I am a priest of the Imperial cult. My role is advocate to the gods on behalf of our cult members. The Imperial cult provides certain benefits for its members at our [[shrines]].
 > *;Priest; Cults, Shrines [Imperial Cult], Healing, Cure Disease shrines*
 
 >[!dialogue] Class;Savant
@@ -99,10 +99,10 @@
 > *;Savant; MALE; History, Speechcraft, Language and Usage in Modern Morrowind*
 
 >[!dialogue] Class;Scout
-> I'm a scout. I know places, people, plants, paths, wind, and weather. I serve as guide for travelers and traders, or work as advance guard and pathfinder for expeditions. I know the [[geography of High Rock]], and the various [[geographic regions]]. My best defense is stealth, sneaking past trouble, but I can fight bow or blade, in various armor styles, when the job requires it.
+> I'm a scout. I know places, people, plants, paths, wind, and weather. I serve as guide for travelers and traders, or work as advance guard and pathfinder for expeditions. I know the [[geography of High Rock]], and the various [[geographic regions]]. My best defense is stealth, sneaking past trouble, but I can fight bow or blade, in various [[armor styles]], when the job requires it.
 
 >[!dialogue] Class;Scout Province;Morrowind
-> I'm a scout. I know places, people, plants, paths, wind, and weather. I serve as guide for travelers and traders, or work as advance guard and pathfinder for expeditions. I know the geography of ==Vvardenfell==, and the various geographic regions. My best defense is stealth, sneaking past trouble, but I can fight bow or blade, in various armor styles, when the job requires it.
+> I'm a scout. I know places, people, plants, paths, wind, and weather. I serve as guide for travelers and traders, or work as advance guard and pathfinder for expeditions. I know the geography of ==Vvardenfell==, and the various [[geographic regions]]. My best defense is stealth, sneaking past trouble, but I can fight bow or blade, in various armor styles, when the job requires it.
 > *;Scout; Geography*
 
 >[!dialogue] Class;Smith
@@ -121,7 +121,7 @@
 > I'm a witch. I have bound myself by oath and deed to the service of a Daedra Lord, and in return have received gifts of knowledge and power. If you are curious, and not afraid, I can tell you a little about the [[Daedra Lords]] and [[Daedric summonings]].
 
 >[!dialogue] Class;Witch Province;Morrowind
-> I'm a witch. I have bound myself by oath and deed to the service of a Daedra lord, and in return have received gifts of knowledge and power. ==The Temple calls my patrons the bad Daedra, and perhaps they aren't very nice... but I guess I'm not very nice, either.== If you are curious, and not afraid, I can tell you a little about the ==bad Daedra== and Daedric summonings.
+> I'm a witch. I have bound myself by oath and deed to the service of a Daedra lord, and in return have received gifts of knowledge and power. ==The Temple calls my patrons the bad Daedra, and perhaps they aren't very nice... but I guess I'm not very nice, either.== If you are curious, and not afraid, I can tell you a little about the ==bad Daedra== and [[Daedric summonings]].
 > *;Witch; Daedra, Necromancy*
 
 >[!dialogue] Class;Witchhunter Author;R-Zero
@@ -129,5 +129,5 @@
 > *;used the class description to ass topic pointers - R-Zero*
 
 >[!dialogue] Class;Witchhunter
-> I am a witchhunter. I dedicate body and soul to the destruction of profane magics. Most foul are necromancers, who defile the bodies and spirits of the sacred dead. Equally abominable are the evil Daedra worshippers. The Daedra Lords delight in the torment and corruption of mortals, and they reward followers with terrible powers always used for evil purposes. In employing the tools of the Enemy -- the spells of the College of Conjuration -- I risk contamination, but fire must be fought with fire.
+> I am a witchhunter. I dedicate body and soul to the destruction of profane magics. Most foul are [[necromancers]], who defile the bodies and spirits of the sacred dead. Equally abominable are the evil Daedra worshippers. The [[Daedra Lords]] delight in the torment and corruption of mortals, and they reward followers with terrible powers always used for evil purposes. In employing the tools of the Enemy -- the spells of the College of Conjuration -- I risk contamination, but fire must be fought with fire.
 > *;Witchhunter; Daedra, Necromancy*

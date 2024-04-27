@@ -33,7 +33,7 @@ $color_bg: rgba(0, 0, 0, 0.2);
 	--callout-icon: var(--callout-icon-quote);
 	border: 2px solid $color_grey;
 	border-radius: 0px;
- //   font: 1.0em Pelagiad;
+	/* font: 1.0em Pelagiad; */
  	font-family: Pelagiad;
 	& > p {
 		color: $color_normal;
@@ -75,7 +75,7 @@ $color_bg: rgba(0, 0, 0, 0.2);
 
 
 
-//    --callout-border-width: 2px;
+/* //    --callout-border-width: 2px;
 //    --callout-radius: 0px;
 //    --callout-title-size: 1.0em;
 //    --link-color: $color_link;
@@ -85,4 +85,4 @@ $color_bg: rgba(0, 0, 0, 0.2);
 //    --link-unresolved-decoration-style: none;
 //    --link-unresolved-decoration-hover: none;
 //    --link-unresolved-opacity: 1;
-//    --link-color-hover: $color_link_over;
+//    --link-color-hover: $color_link_over; */

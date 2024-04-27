@@ -1,5 +1,5 @@
 >[!dialogue] Class;Merchant Author;R-Zero
->Mineral products of commercial value in High Rock include the following:
+>Mineral products of commercial value in [[High Rock]] include the following:
 > - Gems:
 > 	- [[diamond]]
 > 	- [[emerald]]

@@ -3,7 +3,7 @@
 *Vanilla dialogue is all MW-specific  - R-Zero*
 
 >[!dialogue] Class;Priest Faction;NineDivines Author;R-Zero
- >Shrines are altars where prayer and offerings are made to the Nine Divines for healing and blessings. You can worship the Nine Divines at altars of the Imperial cult in temples throughout High Rock.
+ >Shrines are altars where prayer and offerings are made to the [[Nine Divines]] for healing and blessings. You can worship the [[Nine Divines]] at altars of the Imperial cult in temples throughout High Rock.
 >*;answer should depend on the faction. Most priests would be members of regional temples and warn you against using wilderness shrines - R-Zero*
 
 >[!dialogue] ;Savant Author;R-Zero

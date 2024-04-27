@@ -1,6 +1,6 @@
 #todo
 >[!dialogue] Class;Savant Author;R-Zero
->[[Daggerfall]] is the capital of the [[Kingdom of Daggerfall]] and is one of the oldest and largest cities of High Rock...
+>[[Daggerfall]] is the capital of the [[Kingdom of Daggerfall]] and is one of the oldest and largest cities of [[High Rock]]...
 >*;this one should include basic information about history*
 
 >[!dialogue] Class;Scout Author;R-Zero
