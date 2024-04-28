@@ -1,5 +1,5 @@
 >[!dialogue] Class;Priest Class;Monk Class;Healer Faction;NineDivines
->Arkay, God of the Cycle of Life and Death, is the deity associated with burials and funeral rites, and is responsible for the progression of the seasons. His priests are staunch opponents of [[necromancy]] and all forms of the undead.
+>Arkay, God of the Cycle of Life and Death, is the deity associated with burials and funeral rites, and is responsible for the progression of the seasons. His priests are staunch opponents of necromancy and all forms of the undead.
 >*;Imperial cult priests; monks; healers;*
 
 >[!dialogue] Class;Priest Faction;AedricOrders Author;R-Zero

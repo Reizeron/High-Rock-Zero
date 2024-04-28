@@ -1,5 +1,5 @@
 >[!dialogue] Class;Priest Class;Monk Class;Healer Faction;NineDivines
->Dibella, the Goddess of Beauty, is the most popular god of the [[Nine Divines]]. In [[Cyrodiil]], she has nearly a dozen different cults, some devoted to women, some to artists and aesthetics, and others to erotic instruction.
+>Dibella, the Goddess of Beauty, is the most popular god of the Nine Divines. In Cyrodiil, she has nearly a dozen different cults, some devoted to women, some to artists and aesthetics, and others to erotic instruction.
 >*;Imperial cult priests; monks; healers;*
 
 >[!dialogue] Class;Priest Faction;AedricOrders Author;R-Zero

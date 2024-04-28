@@ -1,6 +1,6 @@
 #todo
 >[!dialogue] Faction;Imperial Legion Author;R-Zero
->The punishment for criminals in [[High Rock]] is typically fines and compensation. The fines are collected by the state; the compensation goes to the injured party or his kin.
+>The punishment for criminals in High Rock is typically fines and compensation. The fines are collected by the state; the compensation goes to the injured party or his kin.
 >*Add High Rock-specific tidbits instead of the Morag Tong stuff*
 
 >[!dialogue] Faction;Imperial Legion Province;Morrowind

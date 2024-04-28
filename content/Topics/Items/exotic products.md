@@ -1,5 +1,5 @@
 >[!dialogue] Class;Merchant
-> Exotic products of commercial value in [[High Rock]] include the following: 
+> Exotic products of commercial value in High Rock include the following: 
 > 1. [[bonemeal]],  
 > 2. [[ectoplasm]], 
 > 3. [[Daedra skin]], 
