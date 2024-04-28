@@ -9,7 +9,7 @@ import * as Plugin from "./quartz/plugins"
  
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "⛰️ High Rock Zero",
+    pageTitle: "High Rock Zero",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
