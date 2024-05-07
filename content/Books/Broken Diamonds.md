@@ -1,4 +1,4 @@
-#book
+#book #tes2
 by Ryston Baylor
 
 I remember as a young lad in Glenumbria Moors my first Broken Diamonds holiday. The big noisy festivals I remember very well -- Harvests' End, Mid Year, New Year, the Emperor's Day. All of these I have memories of that stretch back before I became truly aware of the meaning of our celebrating. On the 19th of Frost Fall, every year, my family and I would walk to a ruined castle in the middle of the wilderness, together with everyone else we knew in the Moors. Hands clutched in hands, we would form an enormous circle around the ruins, and head reverently bowed we would sing a song, the [[Sephavre]].

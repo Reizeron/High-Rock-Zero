@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "reizeron.github.io/High-Rock-Zero",
-    ignorePatterns: ["private", "templates", ".obsidian", ".git", ".gitattributes", "Books", "Classes", "Contributors", "OOG Lore"],
+    ignorePatterns: ["private", "templates", ".obsidian", ".git", ".gitattributes", "Contributors", "Maps"],
     defaultDateType: "created",
     theme: {
       fontOrigin: "local", //"googleFonts" | "local"
