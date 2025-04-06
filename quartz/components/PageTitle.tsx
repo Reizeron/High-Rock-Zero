@@ -11,12 +11,13 @@ const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzCompo
     <h1 class={classNames(displayClass, "page-title")}>
 	  <img src={iconPath}></img>
       <a href={baseDir}>{title}</a>
-    </h1>
+    </h2>
   )
 }
 
 PageTitle.css = `
 .page-title {
+  font-size: 1.75rem;
   margin: 0;
   display: flex;
   & img {
