@@ -1,0 +1,2 @@
+npx quartz update
+PAUSE
