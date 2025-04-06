@@ -32,6 +32,7 @@ $color_bg: rgba(0, 0, 0, 0.2);
 	.text-highlight {
 		background-color: #707ecf57;
 	}
+	color: $color_normal;
     --color: #{$color_grey};
 	--bg: #{$color_bg};
 	--callout-color: #{$color_grey};
