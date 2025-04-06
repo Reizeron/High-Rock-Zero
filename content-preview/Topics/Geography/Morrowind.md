@@ -1,0 +1,2 @@
+>[!dialogue] Class;Savant
+>Morrowind, homeland of the [[Dunmer]] peoples, is the northeastmost province of the Tamrielic Empire. Most of the population is gathered in the high uplands and fertile river valleys of central Morrowind, especially around the Inland Sea. The island Vvardenfel is encircled by the Inner Sea, and is dominated by the titanic volcano Red Mountain and its associated ash wastelands; most of the island's population is confined to the relatively hospitable west and southwest coast.

@@ -3,6 +3,11 @@ by Stronach k'Thojj III
 Imperial Historian
 
 ### Part I
+
+<p style="text-align:center;">A Brief History of the Empire<br>
+Part One<br>
+by Stronach k'Thojj III<br>
+Imperial Historian</p><br>
 Before the rule of Tiber Septim, all Tamriel was in chaos. The poet Tracizis called that period of continuous unrest "days and nights of blood and venom." The kings were a petty lot of grasping tyrants, who fought Tiber's attempts to bring order to the land. But they were as disorganized as they were dissolute, and the strong hand of Septim brought peace forcibly to Tamriel. The year was 2E 896. The following year, the Emperor declared the beginning of a new Era-thus began the Third Era, Year Aught.
 
 For thirty-eight years, the Emperor Tiber reigned supreme. It was a lawful, pious, and glorious age, when justice was known to one and all, from serf to sovereign. On Tiber's death, it rained for an entire fortnight as if the land of Tamriel itself was weeping.

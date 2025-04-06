@@ -70,11 +70,11 @@
 > *;necromancer, worm cultist*
 
 >[!dialogue] Class;Necromancer Author;R-Zero
-> I am a necromancer. Mastery of the College of Conjuration allows me to commune with all things dead, and I am the one to call when you have to deal with [[hauntings]], both natural and unnatural. In case that fails, I also know how to exploit weak points of [[undead creatures]] using the College of Destruction. People of my profession are not liked by the common folk, so I have to learn how to stay out of sight. If you so desire, I can tell you more about [[necromancy]], or the local [[burial practices]].
+> I am a necromancer. Mastery of the College of Conjuration allows me to commune with all things dead, and I am the one to call when you have to deal with revenants of all kinds. Should that fail, I also know how to exploit weaknesses of [[undead creatures]] using the College of Destruction. People of my profession are not liked by the common folk, so I have to learn how to stay out of sight. If you so desire, I can tell you more about [[necromancy]], or the local [[burial practices]].
 > *;necromancer, NOT worm cultist*
 
 >[!dialogue] Class;Noble
-> I am a noble, elevated by birth and distinction to the highest ranks of Imperial society. I do not have a trade, as such, though I may dabble in various affairs, collecting rare treasures of beauty and refinement. And if such things are valuable, there's no harm in it. My lofty station is not without responsibilities, of course. I must serve at the command of the Emperor and the Councils, giving counsel and support, and, when duty calls, taking spell and sword to protect the smallfolk of the Empire.
+> I am a noble, elevated by birth and distinction to the highest ranks of Imperial society. I do not have a trade, as such, though I may dabble in various affairs, collecting rare treasures of beauty and refinement. And if such things are valuable, there's no harm in it. My lofty station is not without responsibilities, of course. I must serve at the command of [[the Emperor]] and the Councils, giving counsel and support, and, when duty calls, taking spell and sword to protect the smallfolk of the Empire.
 > *;Noble; generic [Imperial]; make sure more specific Great House noble topics are above this one*
 
 >[!dialogue] Class;Pilgrim Author;R-Zero
