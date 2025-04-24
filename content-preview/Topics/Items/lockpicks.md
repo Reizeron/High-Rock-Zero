@@ -1,2 +1,0 @@
->[!dialogue] Class;Agent Class;Thief
->Lockpicks are used to open locked doors and other locked containers. Locksmiths use these devices when the owner has lost his keys. Professionals of another sort use lockpicks for less honorable purposes.

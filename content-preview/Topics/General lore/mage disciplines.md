@@ -1,2 +1,0 @@
->[!dialogue] Class;Savant
->The nine disciplines traditionally associated with the Mages Guild are: [[enchant]], destruction, alteration, illusion, conjuration, mysticism, restoration, alchemy, and unarmored.
